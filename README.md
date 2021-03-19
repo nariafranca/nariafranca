@@ -9,14 +9,15 @@ Um pouco sobre mim:
 
 - 🔭 Atualmente trabalho no setor financeiro mas estou me formando em Ciência de Dados
 - 🌱 No momento estou fazendo o bootcamp de Data Science do IGTI
-- :rocket: QA
+- :rocket: Analista QA
+- 😄 Vida pessoal: :family: :dog: :runner: :book: :movie_camera: :beers: :hamburger:
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 😄 Vida pessoal: :family: :dog: :runner: :book: :movie_camera: :beers: :hamburger:
+
 
 🛠 Tecnologias
 ==========================
