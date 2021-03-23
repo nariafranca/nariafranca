@@ -21,5 +21,5 @@ Um pouco sobre mim:
 
 🛠 Tecnologias
 ==========================
-- &nbsp; HTML | CSS | JS 
+- &nbsp; HTML | CSS | JS | ReactJS
 - &nbsp; JUnit | Cucumber | Selenium
